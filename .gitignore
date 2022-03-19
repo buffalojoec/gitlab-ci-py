@@ -1,0 +1,3 @@
+build/
+dist/
+gitlab_ci_py.egg-info/

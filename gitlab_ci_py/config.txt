@@ -1,4 +1,0 @@
-# config.txt
-
-[default]
-gitlab_url = https://gitlab.com

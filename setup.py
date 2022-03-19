@@ -25,7 +25,7 @@ setup(
     ],
     packages=["gitlab_ci_py"],
     include_package_data=True,
-    install_requires=["feedparser", "html2text"],
+    install_requires=["pyyaml"],
     entry_points={
         "console_scripts": [
             "gitlab_ci_py=gitlab_ci_py.__main__:main",
